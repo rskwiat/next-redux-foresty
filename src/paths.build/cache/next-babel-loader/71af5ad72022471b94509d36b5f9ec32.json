@@ -1,1 +1,0 @@
-{"ast":null,"code":"const actionTypes = {\n  HOME: 'HOME'\n};\nexport const homeCard = () => {\n  return {\n    type: actionTypes.HOME\n  };\n};","map":null,"metadata":{},"sourceType":"module"}
